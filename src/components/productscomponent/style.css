@@ -1,0 +1,11 @@
+.welcome{
+    text-align: center;
+    align-content: center;
+    margin-top: 10px;
+    font-family: Caveat;
+}
+
+.SearchMusicInput{
+    width: 400px;
+    height: 50px;
+}
